@@ -1,0 +1,3 @@
+com.android.ide.eclipse.adt.fixLegacyEditors=1
+com.android.ide.eclipse.adt.sdk=C\:\\Users\\user\\.gradle\\wrapper\\dists\\gradle-3.3-all\\55gk2rcmfc6p2dg9u9ohc3hw9\\gradle-3.3\\src\\platform-native\\org\\gradle\\nativeplatform\\toolchain\\internal
+eclipse.preferences.version=1

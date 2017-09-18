@@ -1,1 +1,16 @@
+JMH S 34 com.test.jmh.collection.SetIterate S 67 com.test.jmh.collection.generated.SetIterate_iterateHashSet_jmhTest S 14 iterateHashSet S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 34 com.test.jmh.collection.SetAddTest S 69 com.test.jmh.collection.generated.SetAddTest_addLinkedHashSet_jmhTest S 16 addLinkedHashSet S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 31 com.test.jmh.collection.ListGet S 62 com.test.jmh.collection.generated.ListGet_getArrayList_jmhTest S 12 getArrayList S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 35 com.test.jmh.collection.SetContains S 75 com.test.jmh.collection.generated.SetContains_containsLinkedHashSet_jmhTest S 21 containsLinkedHashSet S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 34 com.test.jmh.collection.SetIterate S 73 com.test.jmh.collection.generated.SetIterate_iterateLinkedHashSet_jmhTest S 20 iterateLinkedHashSet S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 31 com.test.jmh.collection.ListGet S 63 com.test.jmh.collection.generated.ListGet_getLinkedList_jmhTest S 13 getLinkedList S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 35 com.test.jmh.collection.SetContains S 69 com.test.jmh.collection.generated.SetContains_containsHashSet_jmhTest S 15 containsHashSet S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 31 com.test.jmh.collection.ListGet S 59 com.test.jmh.collection.generated.ListGet_getVector_jmhTest S 9 getVector S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 34 com.test.jmh.collection.SetIterate S 67 com.test.jmh.collection.generated.SetIterate_iterateTreeSet_jmhTest S 14 iterateTreeSet S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 31 com.test.jmh.collection.ListAdd S 63 com.test.jmh.collection.generated.ListAdd_addLinkedList_jmhTest S 13 addLinkedList S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 34 com.test.jmh.collection.SetAddTest S 63 com.test.jmh.collection.generated.SetAddTest_addHashSet_jmhTest S 10 addHashSet S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 34 com.test.jmh.collection.SetAddTest S 63 com.test.jmh.collection.generated.SetAddTest_addTreeSet_jmhTest S 10 addTreeSet S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 31 com.test.jmh.collection.ListAdd S 59 com.test.jmh.collection.generated.ListAdd_addVector_jmhTest S 9 addVector S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 35 com.test.jmh.collection.SetContains S 69 com.test.jmh.collection.generated.SetContains_containsTreeSet_jmhTest S 15 containsTreeSet S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
 JMH S 24 com.test.jmh.MyBenchmark S 53 com.test.jmh.generated.MyBenchmark_testMethod_jmhTest S 10 testMethod S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E U 11 NANOSECONDS E E 
+JMH S 31 com.test.jmh.collection.ListAdd S 62 com.test.jmh.collection.generated.ListAdd_addArrayList_jmhTest S 12 addArrayList S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
